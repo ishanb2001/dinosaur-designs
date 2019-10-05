@@ -15,6 +15,7 @@ h1, h2 {
 }
 
 figcaption {
+  font-family: 'Patua One', cursive;
   font-size: .8rem;
   font-style: italic;
   text-align: center;
